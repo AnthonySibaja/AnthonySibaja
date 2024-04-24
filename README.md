@@ -1,4 +1,4 @@
-<h1 align="center">Desarrollador web Anthony Sibaja</h1>
+<h1 align="center">Programador Anthony Sibaja</h1>
 <h3 align="center">Desarrollar de Software</h3>
 
 - Cree una aplicacion para una empresa pequeña [Pegadero de la mula](https://github.com/pegaderoM/pegaderoM.githud.io)
