@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Anthony Sibaja Granados</h1>
-<h3 align="center">Soy Ingeniero en Sistemas me gusta mucho la programación ya sea de backend o Frontend</h3>
+<h3 align="center">Soy Ingeniero en Sistemas he trabajado en aplicaciones de computadoras, aplicaciones moviles, paginas web, etc</h3>
 
 - He creado una pagina web para una empresa en backend y frontend **Pegadero de la mula**
 
 - He llevado cursos **como de angular, Laravel, de frontend, backend, ciberseguridad entre otros**
 
-- He trabajado 5 meses para un empresa Epic Studios [https://thisisepicstudio.com/](https://thisisepicstudio.com/)
+- He trabajado para la empresa Epic Studios [https://thisisepicstudio.com/](https://thisisepicstudio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
