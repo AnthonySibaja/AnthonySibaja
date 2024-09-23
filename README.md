@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sibaja_tony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sibaja_tony" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anthony sibaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony sibaja" height="30" width="40" /></a>
-<a href="https://fb.com/anthony sibaja granados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony sibaja granados" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthony-sibaja-9a722b280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony sibaja" height="30" width="40" /></a>
+<a href="https://fb.com/anthony.sibajagranados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony sibaja granados" height="30" width="40" /></a>
 <a href="https://instagram.com/sibajagranados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sibajagranados" height="30" width="40" /></a>
 </p>
 
